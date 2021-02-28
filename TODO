@@ -1,0 +1,6 @@
+Things todo in this project:
+* Seems like docker containers by default run with root priviledges.
+  I can see this by the folders and files that are created when
+  building from docker container have root priviledges.
+  How can we run docker container with non-root priviledges??
+  This link might be a good start: https://engineering.bitnami.com/articles/why-non-root-containers-are-important-for-security.html
